@@ -1,0 +1,753 @@
+@media screen and (max-width: 1440px) {
+  .sidebar {
+    display: none;
+  }
+  .description {
+    padding: 4.5rem 0 0 3.5rem;
+  }
+  .rectangle {
+    bottom: 154px;
+  }
+  .client-img {
+    gap: 64px;
+  }
+  .help-heading {
+    padding-right: 15px;
+  }
+  .help-para {
+    font-size: 1.2rem;
+  }
+  .dots {
+    top: 346px;
+  }
+  .dot-help {
+    bottom: 32px;
+    left: 205px;
+  }
+  .des-since {
+    padding: 2rem 1rem;
+  }
+  .happy-secondary {
+    padding: 0 5rem 0 5rem;
+  }
+  .happy-radio {
+    top: 403px;
+    left: 608px;
+  }
+  .news-des {
+    padding-top: 109px;
+    padding-right: 96px;
+  }
+  .input-news {
+    left: 449px;
+  }
+  .studio-grid {
+    margin-bottom: 1px;
+  }
+  .studio-grid span {
+    font-size: 1.4rem;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .primary-heading {
+    font-size: 1.8rem;
+    padding-bottom: 12px;
+  }
+  .primary-image {
+    padding-left: 0;
+  }
+  .description {
+    padding: 4rem 0 0 3rem;
+  }
+  .primary-para {
+    font-size: 1.1rem;
+  }
+  .ellipse {
+    right: 675px;
+  }
+  .rectangle {
+    bottom: 126px;
+  }
+  .hepl-des {
+    padding: 1rem;
+  }
+  .dot-help {
+    bottom: 39px;
+    left: 69px;
+  }
+  .img-since {
+    width: 550px;
+    height: 500px;
+  }
+  .heading-since {
+    font-size: 2.1rem;
+  }
+  .para-since {
+    font-size: 1.1rem;
+  }
+  .since-ellipse {
+    bottom: 16px;
+    left: 482px;
+  }
+
+  .des-since {
+    padding: 2rem 0rem;
+    margin-left: 25px;
+  }
+  .since-group {
+    left: 288px;
+  }
+  .happy-secondary {
+    padding: 0 1rem;
+  }
+  .happy-heading {
+    font-size: 2rem;
+  }
+  .happy-para {
+    font-size: 1rem;
+  }
+  .happy-radio {
+    left: 520px;
+  }
+  .letter-heading {
+    font-size: 1.7rem;
+  }
+  .letter-para {
+    font-size: 0.9rem;
+  }
+  .news-des {
+    padding-top: 109px;
+    padding-right: 30px;
+  }
+  .input-news {
+    width: 400px;
+    height: 60px;
+    left: 350px;
+  }
+  .input-news button {
+    height: 51px;
+    width: 188px;
+    padding: 13px 28px;
+  }
+  .client-des {
+    margin-left: 45px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .description {
+    padding: 4rem 0 0 3rem;
+    z-index: 1;
+  }
+  .dots {
+    display: none;
+  }
+  .primary-para {
+    font-size: 1rem;
+  }
+  .primary-heading {
+    font-size: 1.7rem;
+  }
+  .des-btn {
+    padding: 10px 20px 10px 20px;
+    width: 180px;
+    height: 55px;
+  }
+  .client-para {
+    padding-bottom: 29px;
+  }
+  .client-heading {
+    font-size: 2.1rem;
+  }
+  .client-img {
+    gap: 25px;
+    padding: 20px 20px;
+  }
+
+  .logo-img {
+    width: 150px;
+    height: 50px;
+  }
+  .card1 {
+    width: 250px;
+    height: 350px;
+    gap: 25px;
+  }
+  .help-img1,
+  .help-img4,
+  .help-img3,
+  .help-img2 {
+    padding: 10px;
+  }
+  .help-h {
+    font-size: 1.3rem;
+  }
+  .help-p {
+    font-size: 1.1rem;
+    padding: 0 1rem;
+  }
+  .ellipse-help {
+    bottom: -27px;
+    right: 250px;
+    z-index: -4;
+  }
+  .dot-help {
+    bottom: -47px;
+    left: 170px;
+  }
+  .img-since {
+    width: 500px;
+    height: 400px;
+    margin-top: 45px;
+  }
+  .heading-since {
+    font-size: 1.8rem;
+  }
+  .para-since {
+    font-size: 1.1rem;
+    width: 420px;
+  }
+  .since-group {
+    left: 260px;
+    top: 182px;
+  }
+  .happy-img {
+    width: 320px;
+    height: 320px;
+  }
+  .grp-img {
+    width: 320px;
+    height: 320px;
+  }
+  .happy-heading {
+    font-size: 1.8rem;
+  }
+  .happy-para {
+    font-size: 0.9rem;
+  }
+  .happy-ellipse {
+    top: 308px;
+  }
+  .happy-radio {
+    left: 403px;
+    top: 372px;
+  }
+  .happy {
+    position: relative;
+    margin-bottom: 96px;
+  }
+  .news-rectangle {
+    width: 350px;
+    height: 210px;
+  }
+  .input-news {
+    width: 300px;
+    height: 60px;
+    left: 349px;
+    top: 110px;
+  }
+  .input-news button {
+    height: 51px;
+    padding: 13px 15px;
+  }
+  .news-des {
+    padding-top: 60px;
+    padding-right: 32px;
+  }
+  .letter-heading {
+    font-size: 1.6rem;
+  }
+  .footer-ps {
+    font-size: 0.9rem;
+  }
+  .p-grid li {
+    font-size: 0.9rem;
+  }
+  .primary-img {
+    opacity: 81%;
+  }
+}
+@media screen and (max-width: 768px) {
+  header {
+    display: inline-block;
+    margin-left: 66px;
+  }
+  .studio {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .description {
+    z-index: 1;
+    position: absolute;
+    top: 253px;
+    left: 24px;
+    padding: 0;
+  }
+  .primary-image {
+    width: 680px;
+    margin-left: 88px;
+    opacity: 75%;
+  }
+  .primary-para {
+    color: black;
+    font-size: 1.2rem;
+  }
+  .primary-heading {
+    font-size: 2rem;
+  }
+  .ellipse {
+    right: 615px;
+  }
+  .our-client {
+    display: inline-block;
+  }
+  .client-heading {
+    font-size: 2.4rem;
+    text-align: center;
+  }
+  .client-para {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .client-img {
+    width: unset;
+    gap: 44px;
+  }
+  .help {
+    display: inline-block;
+  }
+  .help-heading {
+    text-align: center;
+  }
+  .help-para {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .hepl-des {
+    padding: 1rem;
+    margin-bottom: 20px;
+  }
+  .rec-help {
+    top: 256px;
+    width: 650px;
+    height: 650px;
+  }
+  .dot-help {
+    display: none;
+  }
+  .ellipse-help {
+    bottom: -6px;
+    right: 355px;
+  }
+  .cards {
+    margin-left: 74px;
+  }
+  .img-since {
+    width: 650px;
+    height: 500px;
+    margin-top: -41px;
+  }
+  .since-group {
+    left: 335px;
+    top: 144px;
+  }
+  .since-ellipse {
+    top: 308px;
+    left: 539px;
+  }
+  .heading-since {
+    font-size: 2.6rem;
+    text-align: center;
+  }
+  .para-since {
+    font-size: 1.1rem;
+    width: 420px;
+  }
+  .since-rec {
+    display: none;
+  }
+  .des-since {
+    padding: 2rem 0rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .para-since {
+    font-size: 1.2rem;
+    text-align: center;
+    width: unset;
+  }
+  .since {
+    display: inline-block;
+  }
+  .since-rec {
+    position: absolute;
+    left: 0;
+  }
+  .happy-heading {
+    font-size: 2.4rem;
+  }
+  .happy-para {
+    font-size: 1.1rem;
+  }
+  .happy-main {
+    display: flex;
+    flex-direction: column;
+  }
+  .happy-heading {
+    text-align: center;
+  }
+  .happy-para {
+    text-align: center;
+  }
+  .happy-img {
+    margin: 0 auto;
+  }
+  .happy-ellipse {
+    top: 308px;
+    left: 225px;
+  }
+  .happy-ellipse2 {
+    position: absolute;
+    bottom: 0;
+    right: 313px;
+    z-index: -1;
+  }
+  .happy-radio {
+    display: none;
+  }
+  .grp-img {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 25px;
+  }
+  .letter-heading {
+    font-size: 1.3rem;
+  }
+  .letter-para {
+    font-size: 0.7rem;
+  }
+  .news-rectangle {
+    width: 300px;
+    height: 200px;
+  }
+  .input-news {
+    width: 250px;
+    height: 70px;
+    top: 110px;
+    left: 220px;
+  }
+  input.email {
+    font-size: 10px;
+  }
+  footer {
+    display: flex;
+    flex-direction: column;
+  }
+  .first {
+    width: unset;
+  }
+  .studio-grid {
+    text-align: center;
+  }
+  .footer-ps {
+    text-align: center;
+  }
+  .footer-img {
+    margin-top: 12px;
+    margin-left: 261px;
+  }
+  .grid {
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 426px) {
+  .nav ul {
+    display: none;
+  }
+  .sidebar {
+    display: flex;
+  }
+  header {
+    justify-content: space-between;
+    display: flex;
+    margin-left: unset !important;
+  }
+  .primary-image {
+    width: 425px;
+    margin: 0;
+    opacity: 60%;
+  }
+  .description {
+    top: 151px;
+    left: 12px;
+  }
+  .primary-heading {
+    font-size: 1.8rem;
+  }
+  .primary-para {
+    font-size: 0.9rem;
+  }
+  .des-btn {
+    padding: 2px;
+    width: 116px;
+    height: 46px;
+  }
+  .rectangle {
+    bottom: 331px;
+  }
+  .ellipse {
+    right: 0;
+    top: 72px;
+  }
+  .client-heading {
+    font-size: 2.2rem;
+  }
+  .client-img {
+    flex-direction: column;
+  }
+  .client-des {
+    margin-left: 0 !important;
+  }
+  .our-client {
+    margin-top: 86px;
+  }
+  .uber {
+    height: 30px;
+    width: 150px;
+  }
+  .cards {
+    display: flex;
+    gap: 45px;
+    flex-direction: column;
+  }
+  .rec-help {
+    display: none;
+  }
+  .ellipse-help {
+    bottom: -40px;
+    right: 286px;
+  }
+  .yello-rec-help {
+    top: 237px;
+    left: 228px;
+  }
+  .img-since {
+    width: 420px;
+    height: 280px;
+    margin: 0;
+  }
+  .since-group {
+    left: 164px;
+    top: 93px;
+  }
+  .des-since {
+    margin-top: 15px;
+  }
+  .heading-since {
+    font-size: 2rem;
+  }
+  .since-ellipse {
+    top: 173px;
+    left: 264px;
+  }
+
+  .happy-heading {
+    font-size: 2rem;
+  }
+  .happy-ellipse2 {
+    top: 800px;
+    right: 185px;
+  }
+  .news-rectangle {
+    display: none;
+  }
+  .newsletter {
+    width: 420px;
+    height: 200px;
+  }
+  .letter-heading {
+    font-size: 1.8rem;
+  }
+  .letter-para {
+    font-size: 0.8rem;
+  }
+  .rectangle-news {
+    left: -3px;
+  }
+  .news-des {
+    padding-top: 26px;
+    padding-right: 74px;
+  }
+  .input-news {
+    width: 250px;
+    height: 70px;
+    top: 107px;
+    left: 140px;
+  }
+  .dots-news {
+    right: 21px;
+  }
+  .first {
+    margin: 0;
+  }
+  .grid {
+    gap: 15px;
+    margin-right: 10px;
+  }
+  .footer-img {
+    margin-left: 139px;
+  }
+}
+@media screen and (max-width: 376px) {
+  .primary-image {
+    width: 372px;
+  }
+  .rectangle {
+    bottom: 368px;
+  }
+  .des-btn {
+    margin-left: 15px;
+  }
+  .help-heading {
+    padding-right: 0;
+    font-size: 2rem;
+  }
+  .help-para {
+    font-size: 1rem;
+  }
+  .hepl-des {
+    padding: 0;
+  }
+  .yello-rec-help {
+    top: 192px;
+    left: 179px;
+  }
+  .img-since {
+    width: 360px;
+    height: 240px;
+  }
+  .since-group {
+    left: 137px;
+    top: 76px;
+  }
+  .ellipse-help {
+    bottom: -40px;
+    right: 235px;
+  }
+  .cards {
+    margin: 20px 48px;
+  }
+  .since-ellipse {
+    top: 131px;
+    left: 226px;
+  }
+  .para-since {
+    font-size: 1rem;
+  }
+  .happy-main {
+    margin: 0;
+  }
+  .newsletter {
+    width: 360px;
+  }
+  .input-news {
+    top: 107px;
+    left: 88px;
+  }
+  .letter-heading {
+    font-size: 1.6rem;
+  }
+  .news-des {
+    padding-top: 26px;
+    padding-right: 9px;
+  }
+  .p-grid {
+    font-size: 0.8rem;
+  }
+  .grid li {
+    font-size: 0.6rem;
+  }
+  .footer-img {
+    margin-left: 115px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .primary-image {
+    width: 310px;
+    opacity: 40%;
+  }
+  .primary-heading {
+    font-size: 1.4rem;
+  }
+  .primary-para {
+    font-size: 0.8rem;
+  }
+  .des-btn {
+    margin-left: 75px;
+  }
+  .rectangle {
+    bottom: 410px;
+    opacity: 80%;
+  }
+  .help-heading {
+    font-size: 1.7rem;
+    width: 310px;
+  }
+  .hepl-des {
+    width: 310px;
+  }
+  .cards {
+    margin: 20px 0px 20px 10px;
+  }
+
+  .help-para {
+    font-size: 15px;
+    width: 310px;
+  }
+  .yello-rec-help {
+    top: 192px;
+    left: 136px;
+  }
+  .since-group {
+    left: 128px;
+    top: 78px;
+    width: 60px;
+    height: 60px;
+  }
+  .img-since {
+    width: 310px;
+    height: 220px;
+  }
+  .since-ellipse {
+    top: 111px;
+    left: 176px;
+  }
+  .para-since {
+    font-size: 0.9rem;
+  }
+  .heading-since {
+    font-size: 1.9rem;
+  }
+  .happy-ellipse {
+    top: 377px;
+    left: 151px;
+  }
+  .happy-img {
+    width: 310px;
+    height: 310px;
+  }
+  .input-news {
+    top: 107px;
+    left: 26px;
+  }
+  .newsletter {
+    width: 310px;
+  }
+  .letter-para {
+    font-size: 0.9rem;
+  }
+  .footer-img {
+    margin-left: 89px;
+  }
+}
